@@ -285,7 +285,7 @@ function getBattery()
 function getFamilyInfo()
 {
     Speak("there are five member in your family...");
-    Speak("grandfather Gopalbhai... father Mansukhbhai... mother Jagruti... your brother Akshar... sister Gunja... and you Dhyey my sir...");
+    Speak("grandfather Gopalbhai... father Mansukhbhai... mother Jagruti ben... your brother Akshar... sister Gunja... and you Dhyey my sir...");
     Speak("you live in gandinagar... which is in gujarat...");
     Speak("i have lot to say but i think it will be enough...");
 }
